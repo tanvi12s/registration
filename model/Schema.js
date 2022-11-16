@@ -96,7 +96,7 @@ const Student = new mongoose.model('Student',studentSchema);
 
 module.exports = Student;
 
-
+/*https://team-registration.herokuapp.com/ */
 /*{
     "team": {
         "teamname": "xyz",
